@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978133577859",
+    "project_id": "auspex-ccbc1",
+    "storage_bucket": "auspex-ccbc1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978133577859:android:835bfdbb540aa7fcd52bb6",
+        "android_client_info": {
+          "package_name": "com.example.auspex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZS-O1jbVQhJI3gEMNoN4fXUdFDE-5lxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
